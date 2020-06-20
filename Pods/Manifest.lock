@@ -1,0 +1,16 @@
+PODS:
+  - TouchDraw (2.1.2)
+
+DEPENDENCIES:
+  - TouchDraw
+
+SPEC REPOS:
+  trunk:
+    - TouchDraw
+
+SPEC CHECKSUMS:
+  TouchDraw: 80b52af0e29354473205ffb478c881683d770475
+
+PODFILE CHECKSUM: 759d67e8afbb2c9477b4c0ed46e0c37e4a11fa3e
+
+COCOAPODS: 1.9.3
